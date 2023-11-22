@@ -1,0 +1,17 @@
+﻿  ComplexPlane.cpp
+C:\Users\jjsel\source\repos\Mandelbrot_Set\ComplexPlane.cpp(30,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jjsel\source\repos\Mandelbrot_Set\ComplexPlane.cpp(31,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jjsel\source\repos\Mandelbrot_Set\ComplexPlane.cpp(43,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jjsel\source\repos\Mandelbrot_Set\ComplexPlane.cpp(44,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jjsel\source\repos\Mandelbrot_Set\ComplexPlane.cpp(90,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jjsel\source\repos\Mandelbrot_Set\ComplexPlane.cpp(188,8): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jjsel\source\repos\Mandelbrot_Set\ComplexPlane.cpp(190,8): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Mandelbrot_Set.vcxproj -> C:\Users\jjsel\source\repos\Mandelbrot_Set\x64\Debug\Mandelbrot_Set.exe
